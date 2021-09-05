@@ -1,0 +1,188 @@
+[
+  {
+    "question": "1. What does CSS stand for?",
+    "answers": [
+      {
+        "text": "Colorful Style Sheets",
+        "correct": false
+      },
+      {
+        "text": "Cascading Style Sheets",
+        "correct": true
+      },
+      {
+        "text": "Creative Style Sheets",
+        "correct": false
+      },
+      {
+        "text": "Computer Style Sheets",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "2. Where in an HTML document is the correct place to refer to an external style sheet?",
+    "answers": [
+      {
+        "text": "In the <body> section",
+        "correct": false
+      },
+      {
+        "text": "<style>",
+        "correct": false
+      },
+      {
+        "text": "<link>",
+        "correct": false
+      },
+      {
+        "text": "In the <head> section",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "3. Which is the correct CSS syntax?",
+    "answers": [
+      {
+        "text": "body {color: black;}",
+        "correct": true
+      },
+      {
+        "text": "{body:color=black;}",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "4. How do you insert a comment in a CSS file?",
+    "answers": [
+      {
+        "text": "/* this is a comment */",
+        "correct": true
+      },
+      {
+        "text": "/* this is a comment */",
+        "correct": true
+      },
+      {
+        "text": "// this is a comment //",
+        "correct": false
+      },
+      {
+        "text": "/! this is a comment !/",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "5. Which property is used to change the font of an element?",
+    "answers": [
+      {
+        "text": "font-style",
+        "correct": false
+      },
+      {
+        "text": "font-weight",
+        "correct": false
+      },
+      {
+        "text": "font-style",
+        "correct": false
+      },
+      {
+        "text": "font-family",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "6. How do you make the text bold?",
+    "answers": [
+      {
+        "text": "font:bold",
+        "correct": false
+      },
+      {
+        "text": "font-weight:bold",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "7. How do you select elements with class name 'test'?",
+    "answers": [
+      {
+        "text": "#test",
+        "correct": false
+      },
+      {
+        "text": ".test",
+        "correct": true
+      },
+      {
+        "text": "test",
+        "correct": false
+      },
+      {
+        "text": "<test>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "8. Which HTML tag is used to define an internal style sheet?",
+    "answers": [
+      {
+        "text": "<script>",
+        "correct": false
+      },
+      {
+        "text": "<style>",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "9. Which property is used to change the background color?",
+    "answers": [
+      {
+        "text": "color",
+        "correct": false
+      },
+      {
+        "text": "background-color",
+        "correct": true
+      },
+      {
+        "text": "background-style",
+        "correct": false
+      },
+      {
+        "text": "background",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "10. Which of these border-radius values makes a round circle?",
+    "answers": [
+      {
+        "text": "0%",
+        "correct": false
+      },
+      {
+        "text": "25%",
+        "correct": false
+      },
+      {
+        "text": "50%",
+        "correct": true
+      },
+      {
+        "text": "100%",
+        "correct": false
+      }
+    ]
+  }
+]

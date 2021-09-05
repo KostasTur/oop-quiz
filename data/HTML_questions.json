@@ -1,0 +1,196 @@
+[
+  {
+    "question": "1. Inline elements are normally displayed starting a new line.",
+    "answers": [
+      {
+        "text": "True",
+        "correct": false
+      },
+      {
+        "text": "False",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "2. Choose the correct HTML element for the largest heading.",
+    "answers": [
+      {
+        "text": "<h1>",
+        "correct": true
+      },
+      {
+        "text": "<head>",
+        "correct": false
+      },
+      {
+        "text": "<heading>",
+        "correct": false
+      },
+      {
+        "text": "<header>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "3. Which input type defines a slider control?",
+    "answers": [
+      {
+        "text": "controls",
+        "correct": false
+      },
+      {
+        "text": "range",
+        "correct": true
+      },
+      {
+        "text": "search",
+        "correct": false
+      },
+      {
+        "text": "slider",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "4. Which HTML element defines navigation links?",
+    "answers": [
+      {
+        "text": "<navigate>",
+        "correct": false
+      },
+      {
+        "text": "<navigation>",
+        "correct": false
+      },
+      {
+        "text": "<nav>",
+        "correct": true
+      },
+      {
+        "text": "<navbar>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "5. Which HTML element is used to specify a header for a document or section?",
+    "answers": [
+      {
+        "text": "<top>",
+        "correct": false
+      },
+      {
+        "text": "<section>",
+        "correct": false
+      },
+      {
+        "text": "<head>",
+        "correct": false
+      },
+      {
+        "text": "<header>",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "6. What is the correct HTML element for inserting a line break?",
+    "answers": [
+      {
+        "text": "<br>",
+        "correct": true
+      },
+      {
+        "text": "<breakline>",
+        "correct": false
+      },
+      {
+        "text": "<break>",
+        "correct": true
+      },
+      {
+        "text": "<hr>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "7. Which character is used to indicate an end tag??",
+    "answers": [
+      {
+        "text": "^",
+        "correct": false
+      },
+      {
+        "text": "<",
+        "correct": false
+      },
+      {
+        "text": "/",
+        "correct": true
+      },
+      {
+        "text": ">",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "8. Block elements are normally displayed without starting a new line.",
+    "answers": [
+      {
+        "text": "True",
+        "correct": false
+      },
+      {
+        "text": "False",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "9. Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "answers": [
+      {
+        "text": "title",
+        "correct": false
+      },
+      {
+        "text": "src",
+        "correct": false
+      },
+      {
+        "text": "alt",
+        "correct": true
+      },
+      {
+        "text": "text",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "10. What is the correct HTML element for playing audio files?",
+    "answers": [
+      {
+        "text": "<sound>",
+        "correct": false
+      },
+      {
+        "text": "<audio>",
+        "correct": true
+      },
+      {
+        "text": "<play>",
+        "correct": false
+      },
+      {
+        "text": "<mp3>",
+        "correct": true
+      }
+    ]
+  }
+]
